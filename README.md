@@ -14,7 +14,7 @@ HOW TO COMPILE
    d: to decrypt
    
    Examples:
-   * encryption: python main.py e meu_texto.txt
+   * encryption: python main.py e my_text.txt
    * decryption: python main.py d encrypted.txt
    
 ```
