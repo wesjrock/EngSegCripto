@@ -31,6 +31,11 @@ LIMITATIONS
 --------------------------------------------------
 Time and processing, this implementation accepts only text format files as input. The text file can not display ASCII 221 or higher characters because of language limitation (variable overflow occurs when large generator numbers are chosen).
 
+CREDITS
+--------------------------------------------------
+- Aulos Plautius Marino
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 You can find more information about the project in the file:  `project report.pdf`
